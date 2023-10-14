@@ -1,6 +1,7 @@
 // https://c...content-available-to-author-only...s.com/algebra/binary-exp.html
 // https://f...content-available-to-author-only...8.com/p-cpps-101/
-
+//https://cp-algorithms.com/algebra/binary-exp.html
+//https://forthright48.com/p-cpps-101/
 
 #include <bits/stdc++.h>
 using namespace std;
